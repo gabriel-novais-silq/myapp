@@ -1,16 +1,10 @@
-# myapp
+# Contador_Gabriel
 
-A new Flutter project.
+Projeto importado do Flutter.
 
-## Getting Started
+## Como funciona
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Eu tive a ideia de criar uma ofensiva parecido com o duolingo, porém para 
+pessoas que fazem treinamento (academia, estudos, exercicios e etc...). Utilizei
+as orientações ensinados em video aula para modificar o programa da forma que eu
+desejava.
